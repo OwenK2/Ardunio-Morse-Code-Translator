@@ -12,5 +12,3 @@ Also keep in mind I was playing with the LCD so I added a smile and a heart char
 ## Circut Design
 ![Circut](https://github.com/OwenK2/Ardunio-Morse-Code-Translator/blob/master/circut.png?raw=true)
 
-## Schematic
-![Schematic](https://github.com/OwenK2/Ardunio-Morse-Code-Translator/blob/master/schematic.png?raw=true)
